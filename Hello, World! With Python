@@ -18,3 +18,8 @@ Print Hello, World! to stdout.
 Sample Output 0
 
 Hello, World!
+
+## Solution:
+if __name__ == '__main__':
+    my="Hello, World!"
+    print(my)
